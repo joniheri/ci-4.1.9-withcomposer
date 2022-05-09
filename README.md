@@ -70,6 +70,6 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 
 - Pastikan Composer sudah terinstall
 - Disini develop menggunakan PHP Versi 8.1 atau bisa menggunakan XAMPP Versi 8
-- Untuk menginstall CI4 ini menggunakan COmposer, dengan cara mengetikkan di terminal "composer create-project codeigniter4/appstarter name-project --no-dev"
+- Untuk menginstall CodeIgniter versi 4.1.9 ini menggunakan Composer, dengan cara mengetikkan di terminal "composer create-project codeigniter4/appstarter name-project --no-dev"
 - Setelah terinstall, silahkan buka project CodeIgniter4 ini, kemudian ketiikan di terminal "php spark serve"
 - Jika di terminal tampil "http://localhost:8080", brarti project CodeIgniter4 kita sudah bisa jalan di browser mdengan mengunjungi link "http://localhost:8080"
